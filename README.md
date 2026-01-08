@@ -1,52 +1,107 @@
-<!-- ```
- __      __  ______  ____    ____    __  __  ____
-/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
-\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
- \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
-  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
-   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
-    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
+<!--
+ ████████╗ █████╗ ███╗   ██╗███╗   ██╗███████╗██████╗ 
+ ╚══██╔══╝██╔══██╗████╗  ██║████╗  ██║██╔════╝██╔══██╗
+    ██║   ███████║██╔██╗ ██║██╔██╗ ██║█████╗  ██████╔╝
+    ██║   ██╔══██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔══██╗
+    ██║   ██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║
+    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+-->
 
-``` -->
-### Hi there 👋
-
-I'm Tanner May! :sunglasses:
-
+# Tanner May
+Gameplay Programmer · Systems Engineer  
 Denver, CO  
-tannerjmay@gmail.com  
-https://itch.io/profile/kodieatsyou
+
+📧 tannerjmay@gmail.com  
+🎮 https://itch.io/profile/kodieatsyou  
 
 ---
 
-## Now building: gameplay systems that scale
-I build gameplay-first systems with clear architecture and tight feedback loops.  
-My focus is on systems you can reason about: pathfinding, tactical evaluation,
-ability and status resolution, and gameplay integration in Unreal Engine and Unity.
+## 🧠 What I do
+I build **gameplay systems that scale**.
 
-**Gameplay systems portfolio (concept → implementation):**
-- **P1 — Resolver:** Data-driven RPG ability and status resolution with deterministic hooks
-- **P2 — Tactics Nav/Eval:** Grid-based A*, reachability, line-of-sight, and tactical scoring
-- **P3 — UE5 Flagship:** Unreal Engine 5 gameplay integration of Resolver and Tactics systems
+My focus is on systems with:
+- Clear rules
+- Deterministic behavior
+- Architecture that survives iteration
 
----
-
-## What I’m good at
-- Gameplay systems architecture (state machines, deterministic logic, data-driven design)
-- Tactical systems (grids, A*, reachability, LOS, evaluation)
-- Engine-side gameplay work (UE5 C++, Unity prototyping)
-- Performance-aware design (profiling, minimizing per-frame work, predictable behavior)
+I gravitate toward fun, tactical gameplay, compelling scenario resolution, and engine-side systems
+where design decisions are visible, debuggable, and extensible.
 
 ---
 
-## Tech stack
-**Languages:** C++, C#, Python, Rust, JavaScript, HLSL  
-**Engines:** Unreal Engine 5 (C++), Unity, Godot  
-**Graphics APIs:** Vulkan, OpenGL, DirectX 12  
-**Dev:** Git, Linux, Windows, VS Code, Visual Studio
+## 🚧 Current projects
+**Actively being designed, rewritten, or expanded**
+
+- **Resolver**  
+  Data-driven RPG ability and status resolution  
+  Deterministic hooks, explicit ordering, debuggable combat math
+
+- **Tactics Navigation & Evaluation**  
+  Grid-based A*, reachability, line-of-sight  
+  Tactical scoring for AI and player decision-making
+
+- **UE5 Gameplay Flagship**  
+  Unreal Engine 5 C++ project  
+  Integrating Resolver and Tactics systems into a production-style engine context
+
+- **Prototypes & Experiments**  
+  Smaller repos exploring ideas, tools, and gameplay mechanics  
+  Expect rough edges and iteration in progress
 
 ---
 
-## Design philosophy
-> I like systems that feel alive.  
-> Combat math you can reason about.  
-> Mechanics that stay flexible under iteration.
+## 🛠️ Languages
+**Comfortable / production-ready**
+- C++
+- C#
+- Python
+
+**Actively used**
+- Rust
+- JavaScript
+
+**Shaders**
+- HLSL
+
+---
+
+## 🎮 Engines & tech
+- Unreal Engine 5 (C++)
+- Unity
+- Godot
+- FMOD
+- Blender
+
+**Graphics & low-level**
+- Vulkan
+- OpenGL
+- DirectX 12
+
+---
+
+## 📚 Currently learning
+**Actively studying or experimenting with**
+- Deeper Unreal Engine gameplay architecture
+- AI tactical evaluation beyond pathfinding
+- Data-oriented design for gameplay systems
+- Better tooling and debug visibility for combat systems
+- Performance profiling and cost-aware system design
+
+---
+
+## 🧪 Design philosophy
+> Systems should feel alive — but never mysterious.  
+> Combat math should be inspectable.  
+> Good architecture makes iteration cheap.
+
+I prefer clarity over cleverness, deterministic logic over hidden state,
+and designs that still make sense six months later.
+
+---
+
+## 🧭 How to read this GitHub
+- Repos are **living systems**, not polished demos
+- Expect refactors, comments, and architectural experiments
+- The goal is **depth**, not breadth
+
+Thanks for stopping by.
