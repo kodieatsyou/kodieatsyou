@@ -8,8 +8,9 @@
     '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
 ``` -->
-# Tanner May
-**Gameplay Programmer / Systems Engineer**
+### Hi there 👋
+
+I'm Tanner May! :sunglasses:
 
 Denver, CO  
 tannerjmay@gmail.com  
