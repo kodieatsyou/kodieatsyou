@@ -36,22 +36,18 @@ I build gameplay-first systems with clear architecture and tight feedback loops:
 
 ---
 
-## The fun part (optional flavor / vibe)
-> “I like systems that feel alive.”
->
-> Tactical AI that makes sense.
-> Combat math you can reason about.
+## Design philosophy
+> I like systems that feel alive.  
+> Combat math you can reason about.  
 > Mechanics that stay flexible under iteration.
 
 ```txt
-// gameplay loop philosophy:
 input → simulation → readable outcome → iterate
 Contact
 
-Email: <a href="mailto:tannerjmay@gmail.com">tannerjmay@gmail.com
-</a>
+Email: tannerjmay@gmail.com
 
-GitHub: <a href="https://github.com/kodieatsyou">github.com/kodieatsyou</a>
+GitHub: https://github.com/kodieatsyou
 
-Itch: <a href="https://itch.io/profile/kodieatsyou">itch.io/profile/kodieatsyou</a>
+Itch: https://itch.io/profile/kodieatsyou
 ```
