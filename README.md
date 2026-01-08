@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="left">Tanner May</h1>
+<p align="left"><strong>Gameplay Programmer / Systems Engineer</strong></p>
 
-<!--
-**kodieatsyou/kodieatsyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  Denver, CO ·
+  <a href="mailto:tannerjmay@gmail.com">tannerjmay@gmail.com</a> ·
+  <a href="https://github.com/kodieatsyou">github.com/kodieatsyou</a> ·
+  <a href="https://itch.io/profile/kodieatsyou">itch.io/profile/kodieatsyou</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Now building: gameplay systems that scale
+I build gameplay-first systems with clear architecture and tight feedback loops: pathfinding, tactical evaluation, ability/status resolution, and UE5 gameplay integration.
+
+**Portfolio trilogy (recommended order):**
+- **P1 — Resolver:** RPG Ability / Status Resolver (data-driven hooks, deterministic outcomes)
+- **P2 — Tactics Nav/Eval:** A* pathfinding + reachability + line-of-sight + tactical evaluation
+- **P3 — UE5 Flagship:** Turn-based tactics prototype in Unreal Engine 5 that integrates P1 + P2 concepts
+
+---
+
+## Highlights (what I’m good at)
+- **Gameplay architecture:** state machines, data-driven systems, deterministic logic, clean interfaces
+- **Tactical systems:** grids, A*, reachability/LOS, scoring/evaluation
+- **Engine work:** UE5 C++ gameplay integration, Unity prototyping
+- **Performance mindset:** profiling, minimizing per-frame work, predictable memory usage
+
+---
+
+## Tech stack
+**Languages:** C++, C#, Python, Rust, JavaScript, HLSL  
+**Engines:** Unreal Engine 5 (C++), Unity, Godot  
+**Graphics:** Vulkan, OpenGL, DirectX 12  
+**Dev:** Git, Linux/Windows, VS Code, Visual Studio
+
+---
+
+## The fun part (optional flavor / vibe)
+> “I like systems that feel alive.”
+>
+> Tactical AI that makes sense.
+> Combat math you can reason about.
+> Mechanics that stay flexible under iteration.
+
+```txt
+// gameplay loop philosophy:
+input → simulation → readable outcome → iterate
+Contact
+
+Email: <a href="mailto:tannerjmay@gmail.com">tannerjmay@gmail.com
+</a>
+
+GitHub: <a href="https://github.com/kodieatsyou">github.com/kodieatsyou</a>
+
+Itch: <a href="https://itch.io/profile/kodieatsyou">itch.io/profile/kodieatsyou</a>
+```
